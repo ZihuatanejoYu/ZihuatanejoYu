@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZihuatanejoYu
 - 👀 I’m interested in Computer Vision, Industrial Image Anomaly Detection
-- 📫 How to reach me : yu_jw01@163.com
+- 📫 How to reach me : jwyu23@m.fudan.edu.cn
 
 <!---
 ZihuatanejoYu/ZihuatanejoYu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
